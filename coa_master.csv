@@ -39,7 +39,7 @@ BalanceSheet,Assets,Other Inventories,247,Work in Process - Labor
 BalanceSheet,Assets,Other Inventories,248,Non-Automotive Inventory (for resale)
 BalanceSheet,Assets,Other Inventories,249,Parts Inventory Adjustment
 BalanceSheet,Assets,Other Inventories,251,LIFO Reserve P & A
-BalanceSheet,Assets,Other Inventories,260,Securities, Money Market & CDs
+BalanceSheet,Assets,Other Inventories,260,Securities Money Market & CDs
 BalanceSheet,Assets,Other Inventories,261,Trade Receivables Affiliates
 BalanceSheet,Assets,Other Inventories,262,Due from Finance Companies
 BalanceSheet,Assets,Other Inventories,264,Finance & Insurance Receivables
@@ -79,7 +79,7 @@ BalanceSheet,Liabilities,Accrued Liabilities,321,(Accrued) Payroll
 BalanceSheet,Liabilities,Accrued Liabilities,322,(Accrued) Insurance
 BalanceSheet,Liabilities,Accrued Liabilities,323,(Accrued) Taxes - Payroll
 BalanceSheet,Liabilities,Accrued Liabilities,324,(Accrued) Taxes - Sales
-BalanceSheet,Liabilities,Accrued Liabilities,325,(Accrued) Taxes - Other than Payroll, Sales & Income Tax
+BalanceSheet,Liabilities,Accrued Liabilities,325,(Accrued) Taxes - Other than Payroll Sales & Income Tax
 BalanceSheet,Liabilities,Accrued Liabilities,326,(Accrued) Income Taxes - Previous Year
 BalanceSheet,Liabilities,Accrued Liabilities,327,(Accrued) Income Taxes - Current Year
 BalanceSheet,Liabilities,Accrued Liabilities,328,(Accrued) Bonuses - Employees
