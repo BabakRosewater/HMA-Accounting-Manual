@@ -4,7 +4,7 @@ BalanceSheet,Assets,Cash and Contracts,202,Cash in Bank
 BalanceSheet,Assets,Cash and Contracts,203,Cash On Hand
 BalanceSheet,Assets,Cash and Contracts,205,Contracts In Transit
 BalanceSheet,Assets,Customer Receivables,210,Customer Notes
-BalanceSheet,Assets,Customer Receivables,220A,Accounts Receivable - Customer Service, Parts Body Shop
+BalanceSheet,Assets,Customer Receivables,220A,Accounts Receivable - Customer Service Parts Body Shop
 BalanceSheet,Assets,Customer Receivables,222,Accounts Receivable - Retail Vehicles
 BalanceSheet,Assets,Customer Receivables,223,Lease & Rental Accounts
 BalanceSheet,Assets,Customer Receivables,224,Wholesale & Dealer Trades
@@ -31,7 +31,7 @@ BalanceSheet,Assets,Vehicle Inventories,252,Hyundai Certified Used Vehicles (HCU
 BalanceSheet,Assets,Parts and Accessories Inventories,242A,Parts & Accessories - Hyundai
 BalanceSheet,Assets,Parts and Accessories Inventories,242B,Parts & Accessories - Other Franchise
 BalanceSheet,Assets,Parts and Accessories Inventories,243,Miscellaneous Inventories
-BalanceSheet,Assets,Other Inventories,244,Gas, Oil, Grease
+BalanceSheet,Assets,Other Inventories,244,Gas Oil Grease
 BalanceSheet,Assets,Other Inventories,244A,Tires
 BalanceSheet,Assets,Other Inventories,245,Paint & Body Shop Materials
 BalanceSheet,Assets,Other Inventories,246,Sublet Repairs
@@ -60,9 +60,9 @@ BalanceSheet,Assets,Other Inventories,287,Lease & Rental Units - Fixed
 BalanceSheet,Assets,Other Inventories,290,Deposits on Contracts
 BalanceSheet,Assets,Other Inventories,291,Life Insurance - Cash Value
 BalanceSheet,Assets,Other Inventories,293,Notes & Accounts Receivable - Officers & Owners
-BalanceSheet,Assets,Other Inventories,294,Advances to Employees, Affiliates & Other
+BalanceSheet,Assets,Other Inventories,294,Advances to Employees Affiliates & Other
 BalanceSheet,Assets,Other Inventories,295,Other Notes and Accounts Receivables
-BalanceSheet,Assets,Other Inventories,296,Intangibles, Other Investment & Miscellaneous Assets
+BalanceSheet,Assets,Other Inventories,296,Intangibles Other Investment & Miscellaneous Assets
 BalanceSheet,Liabilities,Current Liabilities,300,Accounts Payable - Trade Creditors
 BalanceSheet,Liabilities,Current Liabilities,301,License & Registration Fees
 BalanceSheet,Liabilities,Current Liabilities,303,Vehicle Protection - Warranties Payable
@@ -86,7 +86,7 @@ BalanceSheet,Liabilities,Accrued Liabilities,328,(Accrued) Bonuses - Employees
 BalanceSheet,Liabilities,Accrued Liabilities,329,(Accrued) Bonuses - Owners
 BalanceSheet,Liabilities,Accrued Liabilities,330,(Accrued) Pension Fund & Profit Sharing
 BalanceSheet,Liabilities,Accrued Liabilities,331,Other Accrued Liabilities
-BalanceSheet,Liabilities,Long Term Liabilities,332,Reserve for Repossessions, F&I, Service Contract Losses
+BalanceSheet,Liabilities,Long Term Liabilities,332,Reserve for Repossessions F&I Service Contract Losses
 BalanceSheet,Liabilities,Long Term Liabilities,333,Deferred Income Taxes
 BalanceSheet,Liabilities,Long Term Liabilities,334,Long Term Debt / Capital Loans
 BalanceSheet,Liabilities,Long Term Liabilities,335,Mortgages Payable
@@ -217,7 +217,7 @@ IncomeStatement,Sales & Cost of Sales,Parts & Accessories,468A,Parts & Accessori
 IncomeStatement,Sales & Cost of Sales,Parts & Accessories,472A,Parts & Accessories Car Care Express - Hyundai
 IncomeStatement,Sales & Cost of Sales,Parts & Accessories,472B,Parts & Accessories Car Care Express - Other Franchise
 IncomeStatement,Sales & Cost of Sales,Parts & Accessories,472G,Parts & Accessories - Car Care Express - Hyundai EV
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,481,Non-Auto & Aftermarket Merchandise, Miscellaneous
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,481,Non-Auto & Aftermarket Merchandise Miscellaneous
 IncomeStatement,Sales & Cost of Sales,Parts & Accessories,490,Gas, Oil, & Grease
 IncomeStatement,Sales & Cost of Sales,Parts & Accessories,491,Tires
 IncomeStatement,Sales & Cost of Sales,Parts & Accessories,494A,Parts & Accessories Complimentary Maintenance - Hyundai
@@ -252,7 +252,7 @@ IncomeStatement,Additions & Deductions,Additions to Income,805H,Other Income - C
 IncomeStatement,Additions & Deductions,Additions to Income,805,Other Income - Total
 IncomeStatement,Additions & Deductions,Additions to Income,809,Lease and Rental Units Income
 IncomeStatement,Additions & Deductions,Deductions to Income,851,Interest
-IncomeStatement,Additions & Deductions,Deductions to Income,853,Capital Assets, Losses
+IncomeStatement,Additions & Deductions,Deductions to Income,853,Capital Assets Losses
 IncomeStatement,Additions & Deductions,Deductions to Income,855,Other Deductions - Total
 IncomeStatement,Additions & Deductions,Deductions to Income,855A,Other Deductions - Documentary (Doc) Fees
 IncomeStatement,Additions & Deductions,Deductions to Income,855B,Other Deductions - Packs
@@ -282,7 +282,7 @@ IncomeStatement,Expenses,Expense Accounts,25,Employee Benefits
 IncomeStatement,Expenses,Expense Accounts,26,Pension, Retirement Plan Contribution & Profit-Sharing
 IncomeStatement,Expenses,Expense Accounts,27,Taxes - Payroll
 IncomeStatement,Expenses,Expense Accounts,28,Worker's Compensation
-IncomeStatement,Expenses,Expense Accounts,46,Advertising Hyundai - Print, TV, Other
+IncomeStatement,Expenses,Expense Accounts,46,Advertising Hyundai - Print TV Other
 IncomeStatement,Expenses,Expense Accounts,47,Advertising Hyundai - Internet Only
 IncomeStatement,Expenses,Expense Accounts,48,Advertising Support from Hyundai (Co-Op)
 IncomeStatement,Expenses,Expense Accounts,49,Advertising - Other Franchise
@@ -291,13 +291,13 @@ IncomeStatement,Expenses,Expense Accounts,51,Company Vehicle Expense
 IncomeStatement,Expenses,Expense Accounts,60,Stationery, Office Supplies & Postage
 IncomeStatement,Expenses,Expense Accounts,61,Small Tools & Other Supplies
 IncomeStatement,Expenses,Expense Accounts,66,Contributions
-IncomeStatement,Expenses,Expense Accounts,67,Policy Work - Service, Parts, & Body Shop Dept.
+IncomeStatement,Expenses,Expense Accounts,67,Policy Work - Service Parts & Body Shop Dept.
 IncomeStatement,Expenses,Expense Accounts,68,Outside Services
 IncomeStatement,Expenses,Expense Accounts,69,Laundry and Uniforms
 IncomeStatement,Expenses,Expense Accounts,70,Travel & Entertainment
-IncomeStatement,Expenses,Expense Accounts,71,Memberships, Dues & Publications
-IncomeStatement,Expenses,Expense Accounts,72,Legal, Accounting & Auditing Expense
-IncomeStatement,Expenses,Expense Accounts,73,Freight, Express & Cartage - Parts Department
+IncomeStatement,Expenses,Expense Accounts,71,Memberships Dues & Publications
+IncomeStatement,Expenses,Expense Accounts,72,Legal Accounting & Auditing Expense
+IncomeStatement,Expenses,Expense Accounts,73,Freight Express & Cartage - Parts Department
 IncomeStatement,Expenses,Expense Accounts,74,Telephone
 IncomeStatement,Expenses,Expense Accounts,77,Data Processing & Computer System
 IncomeStatement,Expenses,Expense Accounts,78,Miscellaneous
@@ -308,9 +308,9 @@ IncomeStatement,Expenses,Expense Accounts,83,Depreciation - Buildings and Improv
 IncomeStatement,Expenses,Expense Accounts,84,Taxes - Real Estate
 IncomeStatement,Expenses,Expense Accounts,85,Insurance - Buildings and Improvements
 IncomeStatement,Expenses,Expense Accounts,86,Interest - Real Estate Mortgage
-IncomeStatement,Expenses,Expense Accounts,87,Heat, Light, Power and Water (Utilities)
+IncomeStatement,Expenses,Expense Accounts,87,Heat Light Power and Water (Utilities)
 IncomeStatement,Expenses,Expense Accounts,88,Insurance - Other than Buildings and Improvements
-IncomeStatement,Expenses,Expense Accounts,89,Taxes - Other than Real Estate, Income & Payroll
+IncomeStatement,Expenses,Expense Accounts,89,Taxes - Other than Real Estate Income & Payroll
 IncomeStatement,Expenses,Expense Accounts,90,Repairs - Equipment
 IncomeStatement,Expenses,Expense Accounts,91,Depreciation - Other than Buildings and Improvements
 IncomeStatement,Expenses,Expense Accounts,92,Equipment Rental
