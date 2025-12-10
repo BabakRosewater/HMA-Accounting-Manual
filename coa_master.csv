@@ -1,44 +1,28 @@
-statement,level1,level2,code,name
+﻿statement,level1,level2,code,name
 BalanceSheet,Assets,Cash and Contracts,200,Petty Cash
 BalanceSheet,Assets,Cash and Contracts,202,Cash in Bank
 BalanceSheet,Assets,Cash and Contracts,203,Cash On Hand
 BalanceSheet,Assets,Cash and Contracts,205,Contracts In Transit
 BalanceSheet,Assets,Customer Receivables,210,Customer Notes
-BalanceSheet,Assets,Customer Receivables,220A,Accounts Receivable - Customer Service Parts Body Shop
 BalanceSheet,Assets,Customer Receivables,222,Accounts Receivable - Retail Vehicles
 BalanceSheet,Assets,Customer Receivables,223,Lease & Rental Accounts
 BalanceSheet,Assets,Customer Receivables,224,Wholesale & Dealer Trades
 BalanceSheet,Assets,Customer Receivables,225,Service Contract Receivables
-BalanceSheet,Assets,Customer Receivables,226A,Warranty Claims - Hyundai
-BalanceSheet,Assets,Customer Receivables,226B,Warranty Claims - Other Franchise
-BalanceSheet,Assets,Customer Receivables,227A,Factory Receivables/Incentives - Hyundai
-BalanceSheet,Assets,Customer Receivables,227B,Factory Receivables/Incentives - Other Franchise
-BalanceSheet,Assets,Customer Receivables,228A,Holdback - Hyundai
-BalanceSheet,Assets,Customer Receivables,228B,Holdback - Other Franchise
 BalanceSheet,Assets,Customer Receivables,229,Floor Plan Assistance
-BalanceSheet,Assets,Customer Receivables,229A,Transportation Claims
-BalanceSheet,Assets,Customer Receivables,229B,Floor Plan Assistance - Other
 BalanceSheet,Assets,Customer Receivables,233,Wholesale Assistance - Hyundai
-BalanceSheet,Assets,Vehicle Inventories,230A,Demonstrators - Hyundai
-BalanceSheet,Assets,Vehicle Inventories,230B,Demonstrators - Other Franchise
-BalanceSheet,Assets,Vehicle Inventories,231A,New Vehicles - Hyundai
-BalanceSheet,Assets,Vehicle Inventories,231B,New Vehicles - Other Franchise
 BalanceSheet,Assets,Vehicle Inventories,234,LIFO Reserve - New Vehicle
 BalanceSheet,Assets,Vehicle Inventories,235,LIFO Reserve - Used Vehicle
 BalanceSheet,Assets,Vehicle Inventories,239,Used Vehicles - Hyundai
 BalanceSheet,Assets,Vehicle Inventories,240,Used Vehicles - Other
-BalanceSheet,Assets,Vehicle Inventories,252,Hyundai Certified Used Vehicles (HCUV)
-BalanceSheet,Assets,Parts and Accessories Inventories,242A,Parts & Accessories - Hyundai
-BalanceSheet,Assets,Parts and Accessories Inventories,242B,Parts & Accessories - Other Franchise
 BalanceSheet,Assets,Parts and Accessories Inventories,243,Miscellaneous Inventories
 BalanceSheet,Assets,Other Inventories,244,Gas Oil Grease
-BalanceSheet,Assets,Other Inventories,244A,Tires
 BalanceSheet,Assets,Other Inventories,245,Paint & Body Shop Materials
 BalanceSheet,Assets,Other Inventories,246,Sublet Repairs
 BalanceSheet,Assets,Other Inventories,247,Work in Process - Labor
 BalanceSheet,Assets,Other Inventories,248,Non-Automotive Inventory (for resale)
 BalanceSheet,Assets,Other Inventories,249,Parts Inventory Adjustment
 BalanceSheet,Assets,Other Inventories,251,LIFO Reserve P & A
+BalanceSheet,Assets,Vehicle Inventories,252,Hyundai Certified Used Vehicles (HCUV)
 BalanceSheet,Assets,Other Inventories,260,Securities Money Market & CDs
 BalanceSheet,Assets,Other Inventories,261,Trade Receivables Affiliates
 BalanceSheet,Assets,Other Inventories,262,Due from Finance Companies
@@ -68,10 +52,8 @@ BalanceSheet,Liabilities,Current Liabilities,301,License & Registration Fees
 BalanceSheet,Liabilities,Current Liabilities,303,Vehicle Protection - Warranties Payable
 BalanceSheet,Liabilities,Current Liabilities,309,Vehicle Lien Payable
 BalanceSheet,Liabilities,Current Liabilities,310,New Vehicles & Demonstrators - Hyundai
-BalanceSheet,Liabilities,Current Liabilities,310A,New Vehicles & Demonstrators - Other Franchise
 BalanceSheet,Liabilities,Current Liabilities,311,Used Vehicles - Hyundai
 BalanceSheet,Liabilities,Current Liabilities,312,Used Vehicles - Other Franchise
-BalanceSheet,Liabilities,Current Liabilities,313A,Lease and Rental Units - Current
 BalanceSheet,Liabilities,Current Liabilities,314,(Notes Payable) Other
 BalanceSheet,Liabilities,Current Liabilities,315,Current Portion - Long Term Debt / Capital Loans
 BalanceSheet,Liabilities,Accrued Liabilities,320,(Accrued) Interest
@@ -108,163 +90,24 @@ BalanceSheet,Net Worth,Net Worth,378,Other Disbursements
 BalanceSheet,Net Worth,Net Worth,380,Investments
 BalanceSheet,Net Worth,Net Worth,390,Drawings
 BalanceSheet,Net Worth,Net Worth,399,Profit or (Loss)
-IncomeStatement,Sales & Cost of Sales,New Vehicles,401,Hyundai New Vehicle Retail - Sonata
-IncomeStatement,Sales & Cost of Sales,New Vehicles,403,Hyundai New Vehicle Retail - Elantra
-IncomeStatement,Sales & Cost of Sales,New Vehicles,406,Hyundai New Vehicle Retail - Santa Fe
-IncomeStatement,Sales & Cost of Sales,New Vehicles,408,Hyundai New Vehicle Retail - Tucson
-IncomeStatement,Sales & Cost of Sales,New Vehicles,409,Hyundai Car & Truck Fleet
-IncomeStatement,Sales & Cost of Sales,New Vehicles,414A,Hyundai Protection Plan
-IncomeStatement,Sales & Cost of Sales,New Vehicles,415A,Extended Service Contracts - Hyundai
-IncomeStatement,Sales & Cost of Sales,New Vehicles,415B,Extended Service Contracts - Other Franchise
-IncomeStatement,Sales & Cost of Sales,New Vehicles,417A,Aftermarket Income - Hyundai
-IncomeStatement,Sales & Cost of Sales,New Vehicles,417B,Aftermarket Income - Other Franchise
-IncomeStatement,Sales & Cost of Sales,New Vehicles,420,New Car Retail - Other Franchise
-IncomeStatement,Sales & Cost of Sales,New Vehicles,421,New Car Fleet - Other Franchise
-IncomeStatement,Sales & Cost of Sales,New Vehicles,422,New Car Lease - Other Franchise
-IncomeStatement,Sales & Cost of Sales,New Vehicles,423,New Truck Retail - Other Franchise
-IncomeStatement,Sales & Cost of Sales,New Vehicles,424,New Truck Fleet - Other Franchise
-IncomeStatement,Sales & Cost of Sales,New Vehicles,428,Hyundai New Vehicle Retail - Kona
-IncomeStatement,Sales & Cost of Sales,New Vehicles,429,Hyundai New Vehicle Retail - Nexo
-IncomeStatement,Sales & Cost of Sales,New Vehicles,447,Hyundai Vehicle Care (HVC)
-IncomeStatement,Sales & Cost of Sales,New Vehicles,452A,Ambassador - Sales Pillar
-IncomeStatement,Sales & Cost of Sales,New Vehicles,452B,Account Reserved for Future Use
-IncomeStatement,Sales & Cost of Sales,New Vehicles,492,New Truck Lease - Other Franchise
-IncomeStatement,Sales & Cost of Sales,New Vehicles,509,Hyundai New Vehicle Retail - IONIQ 6
-IncomeStatement,Sales & Cost of Sales,New Vehicles,514,Hyundai New Vehicle Retail - Palisade
-IncomeStatement,Sales & Cost of Sales,New Vehicles,515,Hyundai New Vehicle Retail - Venue
-IncomeStatement,Sales & Cost of Sales,New Vehicles,516,Hyundai New Vehicle Retail - Santa Cruz
-IncomeStatement,Sales & Cost of Sales,New Vehicles,517,Discontinued Models - Hyundai
-IncomeStatement,Sales & Cost of Sales,New Vehicles,518,Hyundai Car Future Product
-IncomeStatement,Sales & Cost of Sales,New Vehicles,519,Hyundai New Vehicle Retail - IONIQ 5
-IncomeStatement,Sales & Cost of Sales,New Vehicles,520,Hyundai New Vehicle Retail - IONIQ 9
-IncomeStatement,Sales & Cost of Sales,New Vehicles,522,Hyundai Truck Future Product
-IncomeStatement,Sales & Cost of Sales,New Vehicles,550,Hyundai New Vehicle Retail - IONIQ 5 N
-IncomeStatement,Sales & Cost of Sales,New Vehicles,611A,Finance Income - Hyundai
-IncomeStatement,Sales & Cost of Sales,New Vehicles,611B,Finance Income - Other Franchise
-IncomeStatement,Sales & Cost of Sales,New Vehicles,613A,Insurance Income - Hyundai
-IncomeStatement,Sales & Cost of Sales,New Vehicles,613B,Insurance Income - Other Franchise
-IncomeStatement,Sales & Cost of Sales,New Vehicles,616A,Incentives - Hyundai
-IncomeStatement,Sales & Cost of Sales,New Vehicles,616B,Incentives - Other Franchise
-IncomeStatement,Sales & Cost of Sales,New Vehicles,618A,Chargebacks - Hyundai
-IncomeStatement,Sales & Cost of Sales,New Vehicles,618B,Chargebacks - Other Franchise
-IncomeStatement,Sales & Cost of Sales,New Vehicles,625,Cost of Sales Adj New Vehicle LIFO
-IncomeStatement,Sales & Cost of Sales,New Vehicles,652A,Performance Engagement Program (PEP)
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,430A,Used Retail - Other Franchise - Cars
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,430B,Used Retail - Other Franchise - Trucks
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,430C,Used Retail - Other Franchise - SUV & CUV
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,430G,Used Retail - Other Franchise - Hybrid / EV
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,433,Used Vehicles - Wholesale
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,441,Subtotal Used Retail - Hyundai (Lines 27 to 31)
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,441A,Used Retail Hyundai - Cars
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,441AG,Used Retail Hyundai - EV/HEV Cars
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,441B,Used Retail Hyundai - SUV/CUV
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,441BG,Used Retail Hyundai - EV/HEV SUV/CUV
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,442,Subtotal Hyundai Certified Used Vehicles (CUV) - (Lines 21 to 25)
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,442A,Hyundai Certified Used Vehicles - Cars
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,442AG,Hyundai Certified Used Vehicles - EV/HEV Cars
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,442B,Hyundai Certified Used Vehicles - SUV/CUV
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,442BG,Hyundai Certified Used Vehicles - EV/HEV SUV/CUV
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,444,Hyundai Protection Plan (HPP) - Used Vehicles
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,445,Aftermarket Income - Used Vehicles
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,535,Extended Service Contracts - Used Vehicles
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,631,Used Retail Hyundai - Reconditioning
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,631A,Used - Retail Reconditioning - Other Franchise
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,632,Hyundai Certified Used Vehicles - Reconditioning
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,634,Adjustment - Used Vehicle Inventory
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,635,Finance Income - Used Vehicles
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,636,Insurance Income - Used Vehicles
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,638,Chargebacks - Used Vehicles
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,639,Cost of Sales Adj.: Used Veh. LIFO
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,640A,GAP Income - Hyundai
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,640B,GAP Income - Other Franchise
-IncomeStatement,Sales & Cost of Sales,Used Vehicles,643,GAP Income - Used Vehicles
-IncomeStatement,Sales & Cost of Sales,Service,450A,Customer Mechanical Labor - Hyundai
-IncomeStatement,Sales & Cost of Sales,Service,450B,Customer Mechanical Labor - Other Franchise
-IncomeStatement,Sales & Cost of Sales,Service,450G,Customer Mechanical Labor - Hyundai EV
-IncomeStatement,Sales & Cost of Sales,Service,451A,Car Care Express - Hyundai
-IncomeStatement,Sales & Cost of Sales,Service,451B,Car Care Express - Other Franchise
-IncomeStatement,Sales & Cost of Sales,Service,451G,Car Care Express - Hyundai EV
-IncomeStatement,Sales & Cost of Sales,Service,454A,Warranty Claim Mechanical Labor - Hyundai
-IncomeStatement,Sales & Cost of Sales,Service,454B,Warranty Claim Mechanical Labor - Other Franchise
-IncomeStatement,Sales & Cost of Sales,Service,454G,Warranty Claim Mechanical Labor - Hyundai EV
-IncomeStatement,Sales & Cost of Sales,Service,455A,Internal Mechanical Labor - Hyundai
-IncomeStatement,Sales & Cost of Sales,Service,455B,Internal Mechanical Labor - Other Franchise
-IncomeStatement,Sales & Cost of Sales,Service,455G,Internal Mechanical Labor - Hyundai EV
-IncomeStatement,Sales & Cost of Sales,Service,456,Sublet Repairs - Mechanical
-IncomeStatement,Sales & Cost of Sales,Service,457A,Used Vehicle 'Other Franchise' Labor serviced by Hyundai Technician
-IncomeStatement,Sales & Cost of Sales,Service,459,Miscellaneous
-IncomeStatement,Sales & Cost of Sales,Service,459A,Ambassador - After-Sales Pillar
-IncomeStatement,Sales & Cost of Sales,Service,493A,Complimentary Maintenance Labor - Hyundai
-IncomeStatement,Sales & Cost of Sales,Service,493B,Complimentary Maintenance Labor - Other Franchise
-IncomeStatement,Sales & Cost of Sales,Service,493G,Complimentary Maintenance Labor - Hyundai EV
-IncomeStatement,Sales & Cost of Sales,Service,657,Unapplied Labor
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,460A,Parts & Accessories Customer - Hyundai
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,460B,Parts & Accessories Customer - Other Franchise
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,460G,Parts & Accessories Customer - Hyundai EV
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,464A,Parts & Accessories Warranty Claims - Hyundai
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,464B,Parts & Accessories Warranty Claims - Other Franchise
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,464G,Parts & Accessories Warranty Claims - Hyundai EV
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,465A,Parts & Accessories Internal - Hyundai
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,465B,Parts & Accessories Internal - Other Franchise
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,465G,Parts & Accessories Internal - Hyundai EV
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,466A,Parts & Accessories Counter - Hyundai
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,466B,Parts & Accessories Counter - Other Franchise
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,466G,Parts & Accessories Counter - Hyundai EV
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,467A,Parts & Accessories Wholesale - Hyundai
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,467B,Parts & Accessories Wholesale - Other Franchise
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,467G,Parts & Accessories Wholesale - Hyundai EV
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,468A,Parts & Accessories Used Vehicle 'Other Franchise' Parts
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,472A,Parts & Accessories Car Care Express - Hyundai
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,472B,Parts & Accessories Car Care Express - Other Franchise
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,472G,Parts & Accessories - Car Care Express - Hyundai EV
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,481,Non-Auto & Aftermarket Merchandise Miscellaneous
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,490,Gas, Oil, & Grease
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,491,Tires
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,494A,Parts & Accessories Complimentary Maintenance - Hyundai
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,494B,Parts & Accessories Complimentary Maintenance - Other Franchise
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,494G,Parts & Accessories Complimentary Maintenance - Hyundai EV
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,675,Parts & Accessories Inventory Adj. - Hyundai/Other
-IncomeStatement,Sales & Cost of Sales,Parts & Accessories,680,Cost of Sales Adj.: P & A LIFO
-IncomeStatement,Sales & Cost of Sales,Body Shop,462A,Parts & Accessories R.O. Body Shop - Hyundai
-IncomeStatement,Sales & Cost of Sales,Body Shop,462B,Parts & Accessories R.O. Body Shop - Other Franchise
-IncomeStatement,Sales & Cost of Sales,Body Shop,500,Customer Body Shop Labor
-IncomeStatement,Sales & Cost of Sales,Body Shop,504,Warranty Claims Body Shop Labor
-IncomeStatement,Sales & Cost of Sales,Body Shop,505,Internal Body Shop Labor
-IncomeStatement,Sales & Cost of Sales,Body Shop,506,Sublet Repairs - Body Shop
-IncomeStatement,Sales & Cost of Sales,Body Shop,507,Paint, Materials & Misc. - Body Shop
-IncomeStatement,Sales & Cost of Sales,Body Shop,708,Unapplied Labor - Body Shop
-IncomeStatement,Additions & Deductions,Additions to Operating Income,652B,Accelerate Facilities Bonus - Hyundai
-IncomeStatement,Additions & Deductions,Additions to Operating Income,652C,Account Reserved for Future Use
-IncomeStatement,Additions & Deductions,Additions to Operating Income,652D,Ambassador - Brand Representation
-IncomeStatement,Additions & Deductions,Additions to Operating Income,652E,Account Reserved for Future Use
-IncomeStatement,Additions & Deductions,Additions to Operating Income,652F,Account Reserved for Future Use
-IncomeStatement,Additions & Deductions,Additions to Income,800,Cash Discounts Earned
-IncomeStatement,Additions & Deductions,Additions to Income,801,Interest Earned
-IncomeStatement,Additions & Deductions,Additions to Income,803,Capital Assets, Gains
-IncomeStatement,Additions & Deductions,Additions to Income,805A,Other Income - Documentary (Doc) Fees
-IncomeStatement,Additions & Deductions,Additions to Income,805B,Other Income - Packs
-IncomeStatement,Additions & Deductions,Additions to Income,805C,Other Income - License Tags Titles
-IncomeStatement,Additions & Deductions,Additions to Income,805D,Other Income - Dealer Trades
-IncomeStatement,Additions & Deductions,Additions to Income,805E,Other Income - Incentives
-IncomeStatement,Additions & Deductions,Additions to Income,805F,Other Income - Management Fees
-IncomeStatement,Additions & Deductions,Additions to Income,805G,Other Income - Miscellaneous
-IncomeStatement,Additions & Deductions,Additions to Income,805H,Other Income - Chargers
-IncomeStatement,Additions & Deductions,Additions to Income,805,Other Income - Total
-IncomeStatement,Additions & Deductions,Additions to Income,809,Lease and Rental Units Income
-IncomeStatement,Additions & Deductions,Deductions to Income,851,Interest
-IncomeStatement,Additions & Deductions,Deductions to Income,853,Capital Assets Losses
-IncomeStatement,Additions & Deductions,Deductions to Income,855,Other Deductions - Total
-IncomeStatement,Additions & Deductions,Deductions to Income,855A,Other Deductions - Documentary (Doc) Fees
-IncomeStatement,Additions & Deductions,Deductions to Income,855B,Other Deductions - Packs
-IncomeStatement,Additions & Deductions,Deductions to Income,855C,Other Deductions - License Tags Titles
-IncomeStatement,Additions & Deductions,Deductions to Income,855D,Other Deductions - Dealer Trades
-IncomeStatement,Additions & Deductions,Deductions to Income,855E,Other Deductions - Incentives
-IncomeStatement,Additions & Deductions,Deductions to Income,855F,Other Deductions - Management Fees
-IncomeStatement,Additions & Deductions,Deductions to Income,855G,Other Deductions - Miscellaneous
-IncomeStatement,Additions & Deductions,Deductions to Income,855H,Other Deductions - Chargers
-IncomeStatement,Additions & Deductions,Deductions to Income,857,Repossession Losses
-IncomeStatement,Additions & Deductions,Deductions to Income,858,Casualty Losses
-IncomeStatement,Additions & Deductions,Deductions to Income,859,Lease & Rental Units Expense
+BalanceSheet,Assets,Customer Receivables,220A,Accounts Receivable - Customer Service Parts Body Shop
+BalanceSheet,Assets,Customer Receivables,226A,Warranty Claims - Hyundai
+BalanceSheet,Assets,Customer Receivables,226B,Warranty Claims - Other Franchise
+BalanceSheet,Assets,Customer Receivables,227A,Factory Receivables/Incentives - Hyundai
+BalanceSheet,Assets,Customer Receivables,227B,Factory Receivables/Incentives - Other Franchise
+BalanceSheet,Assets,Customer Receivables,228A,Holdback - Hyundai
+BalanceSheet,Assets,Customer Receivables,228B,Holdback - Other Franchise
+BalanceSheet,Assets,Customer Receivables,229A,Transportation Claims
+BalanceSheet,Assets,Customer Receivables,229B,Floor Plan Assistance - Other
+BalanceSheet,Assets,Vehicle Inventories,230A,Demonstrators - Hyundai
+BalanceSheet,Assets,Vehicle Inventories,230B,Demonstrators - Other Franchise
+BalanceSheet,Assets,Vehicle Inventories,231A,New Vehicles - Hyundai
+BalanceSheet,Assets,Vehicle Inventories,231B,New Vehicles - Other Franchise
+BalanceSheet,Assets,Parts and Accessories Inventories,242A,Parts & Accessories - Hyundai
+BalanceSheet,Assets,Parts and Accessories Inventories,242B,Parts & Accessories - Other Franchise
+BalanceSheet,Assets,Other Inventories,244A,Tires
+BalanceSheet,Liabilities,Current Liabilities,310A,New Vehicles & Demonstrators - Other Franchise
+BalanceSheet,Liabilities,Current Liabilities,313A,Lease and Rental Units - Current
 IncomeStatement,Expenses,Expense Accounts,11,Salespeople: Compensation & Incentives
 IncomeStatement,Expenses,Expense Accounts,12,F & I Managers: Compensation & Incentives
 IncomeStatement,Expenses,Expense Accounts,13,Delivery Expense
@@ -277,9 +120,9 @@ IncomeStatement,Expenses,Expense Accounts,20,Salaries - Owners/General Managers
 IncomeStatement,Expenses,Expense Accounts,21,Salaries - Supervision
 IncomeStatement,Expenses,Expense Accounts,22,Salaries - Clerical
 IncomeStatement,Expenses,Expense Accounts,23,Other Salaries & Wages
-IncomeStatement,Expenses,Expense Accounts,24,Leave - Vacation, Sick & Holiday Compensation
+IncomeStatement,Expenses,Expense Accounts,24,Leave - Vacation  Sick & Holiday Compensation
 IncomeStatement,Expenses,Expense Accounts,25,Employee Benefits
-IncomeStatement,Expenses,Expense Accounts,26,Pension, Retirement Plan Contribution & Profit-Sharing
+IncomeStatement,Expenses,Expense Accounts,26,Pension  Retirement Plan Contribution & Profit-Sharing
 IncomeStatement,Expenses,Expense Accounts,27,Taxes - Payroll
 IncomeStatement,Expenses,Expense Accounts,28,Worker's Compensation
 IncomeStatement,Expenses,Expense Accounts,46,Advertising Hyundai - Print TV Other
@@ -288,7 +131,7 @@ IncomeStatement,Expenses,Expense Accounts,48,Advertising Support from Hyundai (C
 IncomeStatement,Expenses,Expense Accounts,49,Advertising - Other Franchise
 IncomeStatement,Expenses,Expense Accounts,50,Training
 IncomeStatement,Expenses,Expense Accounts,51,Company Vehicle Expense
-IncomeStatement,Expenses,Expense Accounts,60,Stationery, Office Supplies & Postage
+IncomeStatement,Expenses,Expense Accounts,60,Stationery  Office Supplies & Postage
 IncomeStatement,Expenses,Expense Accounts,61,Small Tools & Other Supplies
 IncomeStatement,Expenses,Expense Accounts,66,Contributions
 IncomeStatement,Expenses,Expense Accounts,67,Policy Work - Service Parts & Body Shop Dept.
@@ -318,5 +161,162 @@ IncomeStatement,Expenses,Expense Accounts,97,Bonuses - Employees
 IncomeStatement,Expenses,Expense Accounts,98,Bonuses - Owners
 IncomeStatement,Expenses,Expense Accounts,99,Income Taxes
 IncomeStatement,Expenses,Expense Accounts,100,Rounding Adjustments
+IncomeStatement,Sales & Cost of Sales,New Vehicles,401,Hyundai New Vehicle Retail - Sonata
+IncomeStatement,Sales & Cost of Sales,New Vehicles,403,Hyundai New Vehicle Retail - Elantra
+IncomeStatement,Sales & Cost of Sales,New Vehicles,406,Hyundai New Vehicle Retail - Santa Fe
+IncomeStatement,Sales & Cost of Sales,New Vehicles,408,Hyundai New Vehicle Retail - Tucson
+IncomeStatement,Sales & Cost of Sales,New Vehicles,409,Hyundai Car & Truck Fleet
+IncomeStatement,Sales & Cost of Sales,New Vehicles,420,New Car Retail - Other Franchise
+IncomeStatement,Sales & Cost of Sales,New Vehicles,421,New Car Fleet - Other Franchise
+IncomeStatement,Sales & Cost of Sales,New Vehicles,422,New Car Lease - Other Franchise
+IncomeStatement,Sales & Cost of Sales,New Vehicles,423,New Truck Retail - Other Franchise
+IncomeStatement,Sales & Cost of Sales,New Vehicles,424,New Truck Fleet - Other Franchise
+IncomeStatement,Sales & Cost of Sales,New Vehicles,428,Hyundai New Vehicle Retail - Kona
+IncomeStatement,Sales & Cost of Sales,New Vehicles,429,Hyundai New Vehicle Retail - Nexo
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,433,Used Vehicles - Wholesale
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,441,Subtotal Used Retail - Hyundai (Lines 27 to 31)
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,442,Subtotal Hyundai Certified Used Vehicles (CUV) - (Lines 21 to 25)
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,444,Hyundai Protection Plan (HPP) - Used Vehicles
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,445,Aftermarket Income - Used Vehicles
+IncomeStatement,Sales & Cost of Sales,New Vehicles,447,Hyundai Vehicle Care (HVC)
+IncomeStatement,Sales & Cost of Sales,Service,456,Sublet Repairs - Mechanical
+IncomeStatement,Sales & Cost of Sales,Service,459,Miscellaneous
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,481,Non-Auto & Aftermarket Merchandise Miscellaneous
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,490,Gas Oil & Grease
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,491,Tires
+IncomeStatement,Sales & Cost of Sales,New Vehicles,492,New Truck Lease - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Body Shop,500,Customer Body Shop Labor
+IncomeStatement,Sales & Cost of Sales,Body Shop,504,Warranty Claims Body Shop Labor
+IncomeStatement,Sales & Cost of Sales,Body Shop,505,Internal Body Shop Labor
+IncomeStatement,Sales & Cost of Sales,Body Shop,506,Sublet Repairs - Body Shop
+IncomeStatement,Sales & Cost of Sales,Body Shop,507,Paint  Materials & Misc. - Body Shop
+IncomeStatement,Sales & Cost of Sales,New Vehicles,509,Hyundai New Vehicle Retail - IONIQ 6
+IncomeStatement,Sales & Cost of Sales,New Vehicles,514,Hyundai New Vehicle Retail - Palisade
+IncomeStatement,Sales & Cost of Sales,New Vehicles,515,Hyundai New Vehicle Retail - Venue
+IncomeStatement,Sales & Cost of Sales,New Vehicles,516,Hyundai New Vehicle Retail - Santa Cruz
+IncomeStatement,Sales & Cost of Sales,New Vehicles,517,Discontinued Models - Hyundai
+IncomeStatement,Sales & Cost of Sales,New Vehicles,518,Hyundai Car Future Product
+IncomeStatement,Sales & Cost of Sales,New Vehicles,519,Hyundai New Vehicle Retail - IONIQ 5
+IncomeStatement,Sales & Cost of Sales,New Vehicles,520,Hyundai New Vehicle Retail - IONIQ 9
+IncomeStatement,Sales & Cost of Sales,New Vehicles,522,Hyundai Truck Future Product
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,535,Extended Service Contracts - Used Vehicles
+IncomeStatement,Sales & Cost of Sales,New Vehicles,550,Hyundai New Vehicle Retail - IONIQ 5 N
+IncomeStatement,Sales & Cost of Sales,New Vehicles,625,Cost of Sales Adj New Vehicle LIFO
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,631,Used Retail Hyundai - Reconditioning
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,632,Hyundai Certified Used Vehicles - Reconditioning
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,634,Adjustment - Used Vehicle Inventory
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,635,Finance Income - Used Vehicles
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,636,Insurance Income - Used Vehicles
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,638,Chargebacks - Used Vehicles
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,639,Cost of Sales Adj.: Used Veh. LIFO
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,643,GAP Income - Used Vehicles
+IncomeStatement,Sales & Cost of Sales,Service,657,Unapplied Labor
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,675,Parts & Accessories Inventory Adj. - Hyundai/Other
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,680,Cost of Sales Adj.: P & A LIFO
+IncomeStatement,Sales & Cost of Sales,Body Shop,708,Unapplied Labor - Body Shop
+IncomeStatement,Additions & Deductions,Additions to Income,800,Cash Discounts Earned
+IncomeStatement,Additions & Deductions,Additions to Income,801,Interest Earned
 IncomeStatement,Expenses,Expense Accounts,802,Bad Debts Recovered
+IncomeStatement,Additions & Deductions,Additions to Income,803,Capital Assets Gains
+IncomeStatement,Additions & Deductions,Additions to Income,805,Other Income - Total
+IncomeStatement,Additions & Deductions,Additions to Income,809,Lease and Rental Units Income
+IncomeStatement,Additions & Deductions,Deductions to Income,851,Interest
 IncomeStatement,Expenses,Expense Accounts,852,Adjustments for Doubtful Accounts
+IncomeStatement,Additions & Deductions,Deductions to Income,853,Capital Assets Losses
+IncomeStatement,Additions & Deductions,Deductions to Income,855,Other Deductions - Total
+IncomeStatement,Additions & Deductions,Deductions to Income,857,Repossession Losses
+IncomeStatement,Additions & Deductions,Deductions to Income,858,Casualty Losses
+IncomeStatement,Additions & Deductions,Deductions to Income,859,Lease & Rental Units Expense
+IncomeStatement,Sales & Cost of Sales,New Vehicles,414A,Hyundai Protection Plan
+IncomeStatement,Sales & Cost of Sales,New Vehicles,415A,Extended Service Contracts - Hyundai
+IncomeStatement,Sales & Cost of Sales,New Vehicles,415B,Extended Service Contracts - Other Franchise
+IncomeStatement,Sales & Cost of Sales,New Vehicles,417A,Aftermarket Income - Hyundai
+IncomeStatement,Sales & Cost of Sales,New Vehicles,417B,Aftermarket Income - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,430A,Used Retail - Other Franchise - Cars
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,430B,Used Retail - Other Franchise - Trucks
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,430C,Used Retail - Other Franchise - SUV & CUV
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,430G,Used Retail - Other Franchise - Hybrid / EV
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,441A,Used Retail Hyundai - Cars
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,441AG,Used Retail Hyundai - EV/HEV Cars
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,441B,Used Retail Hyundai - SUV/CUV
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,441BG,Used Retail Hyundai - EV/HEV SUV/CUV
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,442A,Hyundai Certified Used Vehicles - Cars
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,442AG,Hyundai Certified Used Vehicles - EV/HEV Cars
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,442B,Hyundai Certified Used Vehicles - SUV/CUV
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,442BG,Hyundai Certified Used Vehicles - EV/HEV SUV/CUV
+IncomeStatement,Sales & Cost of Sales,Service,450A,Customer Mechanical Labor - Hyundai
+IncomeStatement,Sales & Cost of Sales,Service,450B,Customer Mechanical Labor - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Service,450G,Customer Mechanical Labor - Hyundai EV
+IncomeStatement,Sales & Cost of Sales,Service,451A,Car Care Express - Hyundai
+IncomeStatement,Sales & Cost of Sales,Service,451B,Car Care Express - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Service,451G,Car Care Express - Hyundai EV
+IncomeStatement,Sales & Cost of Sales,New Vehicles,452A,Ambassador - Sales Pillar
+IncomeStatement,Sales & Cost of Sales,New Vehicles,452B,Account Reserved for Future Use
+IncomeStatement,Sales & Cost of Sales,Service,454A,Warranty Claim Mechanical Labor - Hyundai
+IncomeStatement,Sales & Cost of Sales,Service,454B,Warranty Claim Mechanical Labor - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Service,454G,Warranty Claim Mechanical Labor - Hyundai EV
+IncomeStatement,Sales & Cost of Sales,Service,455A,Internal Mechanical Labor - Hyundai
+IncomeStatement,Sales & Cost of Sales,Service,455B,Internal Mechanical Labor - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Service,455G,Internal Mechanical Labor - Hyundai EV
+IncomeStatement,Sales & Cost of Sales,Service,457A,Used Vehicle 'Other Franchise' Labor serviced by Hyundai Technician
+IncomeStatement,Sales & Cost of Sales,Service,459A,Ambassador - After-Sales Pillar
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,460A,Parts & Accessories Customer - Hyundai
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,460B,Parts & Accessories Customer - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,460G,Parts & Accessories Customer - Hyundai EV
+IncomeStatement,Sales & Cost of Sales,Body Shop,462A,Parts & Accessories R.O. Body Shop - Hyundai
+IncomeStatement,Sales & Cost of Sales,Body Shop,462B,Parts & Accessories R.O. Body Shop - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,464A,Parts & Accessories Warranty Claims - Hyundai
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,464B,Parts & Accessories Warranty Claims - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,464G,Parts & Accessories Warranty Claims - Hyundai EV
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,465A,Parts & Accessories Internal - Hyundai
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,465B,Parts & Accessories Internal - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,465G,Parts & Accessories Internal - Hyundai EV
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,466A,Parts & Accessories Counter - Hyundai
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,466B,Parts & Accessories Counter - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,466G,Parts & Accessories Counter - Hyundai EV
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,467A,Parts & Accessories Wholesale - Hyundai
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,467B,Parts & Accessories Wholesale - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,467G,Parts & Accessories Wholesale - Hyundai EV
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,468A,Parts & Accessories Used Vehicle 'Other Franchise' Parts
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,472A,Parts & Accessories Car Care Express - Hyundai
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,472B,Parts & Accessories Car Care Express - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,472G,Parts & Accessories - Car Care Express - Hyundai EV
+IncomeStatement,Sales & Cost of Sales,Service,493A,Complimentary Maintenance Labor - Hyundai
+IncomeStatement,Sales & Cost of Sales,Service,493B,Complimentary Maintenance Labor - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Service,493G,Complimentary Maintenance Labor - Hyundai EV
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,494A,Parts & Accessories Complimentary Maintenance - Hyundai
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,494B,Parts & Accessories Complimentary Maintenance - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Parts & Accessories,494G,Parts & Accessories Complimentary Maintenance - Hyundai EV
+IncomeStatement,Sales & Cost of Sales,New Vehicles,611A,Finance Income - Hyundai
+IncomeStatement,Sales & Cost of Sales,New Vehicles,611B,Finance Income - Other Franchise
+IncomeStatement,Sales & Cost of Sales,New Vehicles,613A,Insurance Income - Hyundai
+IncomeStatement,Sales & Cost of Sales,New Vehicles,613B,Insurance Income - Other Franchise
+IncomeStatement,Sales & Cost of Sales,New Vehicles,616A,Incentives - Hyundai
+IncomeStatement,Sales & Cost of Sales,New Vehicles,616B,Incentives - Other Franchise
+IncomeStatement,Sales & Cost of Sales,New Vehicles,618A,Chargebacks - Hyundai
+IncomeStatement,Sales & Cost of Sales,New Vehicles,618B,Chargebacks - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,631A,Used - Retail Reconditioning - Other Franchise
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,640A,GAP Income - Hyundai
+IncomeStatement,Sales & Cost of Sales,Used Vehicles,640B,GAP Income - Other Franchise
+IncomeStatement,Sales & Cost of Sales,New Vehicles,652A,Performance Engagement Program (PEP)
+IncomeStatement,Additions & Deductions,Additions to Operating Income,652B,Accelerate Facilities Bonus - Hyundai
+IncomeStatement,Additions & Deductions,Additions to Operating Income,652C,Account Reserved for Future Use
+IncomeStatement,Additions & Deductions,Additions to Operating Income,652D,Ambassador - Brand Representation
+IncomeStatement,Additions & Deductions,Additions to Operating Income,652E,Account Reserved for Future Use
+IncomeStatement,Additions & Deductions,Additions to Operating Income,652F,Account Reserved for Future Use
+IncomeStatement,Additions & Deductions,Additions to Income,805A,Other Income - Documentary (Doc) Fees
+IncomeStatement,Additions & Deductions,Additions to Income,805B,Other Income - Packs
+IncomeStatement,Additions & Deductions,Additions to Income,805C,Other Income - License Tags Titles
+IncomeStatement,Additions & Deductions,Additions to Income,805D,Other Income - Dealer Trades
+IncomeStatement,Additions & Deductions,Additions to Income,805E,Other Income - Incentives
+IncomeStatement,Additions & Deductions,Additions to Income,805F,Other Income - Management Fees
+IncomeStatement,Additions & Deductions,Additions to Income,805G,Other Income - Miscellaneous
+IncomeStatement,Additions & Deductions,Additions to Income,805H,Other Income - Chargers
+IncomeStatement,Additions & Deductions,Deductions to Income,855A,Other Deductions - Documentary (Doc) Fees
+IncomeStatement,Additions & Deductions,Deductions to Income,855B,Other Deductions - Packs
+IncomeStatement,Additions & Deductions,Deductions to Income,855C,Other Deductions - License Tags Titles
+IncomeStatement,Additions & Deductions,Deductions to Income,855D,Other Deductions - Dealer Trades
+IncomeStatement,Additions & Deductions,Deductions to Income,855E,Other Deductions - Incentives
+IncomeStatement,Additions & Deductions,Deductions to Income,855F,Other Deductions - Management Fees
+IncomeStatement,Additions & Deductions,Deductions to Income,855G,Other Deductions - Miscellaneous
+IncomeStatement,Additions & Deductions,Deductions to Income,855H,Other Deductions - Chargers
