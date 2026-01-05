@@ -1,0 +1,126 @@
+ GL3010R                                  CLARK HYUNDAI                                   1/05/26  15:36:29
+ BMOHA46                                 Selective Payable Listing                                 Page   1
+ ==========================================================================================================
+   HYUN003  HYUNDAI MOTOR AMERICA
+ Pay Amount        .00  Due in 30 Days
+
+                                                             Net        Original                Days
+      Invoice#    Date    Description                        Payable     Invoice /     Discount  Exp
+                                                                          Credit
+ ==========================================================================================================
+        000320  12/02/25  Purchase Order: 7008607              79.20       79.20
+        000321  12/02/25  Purchase Order: 7008606             757.03      757.03
+        000322  12/02/25  Purchase Order: 7008609              77.80       77.80
+        000797  12/04/25  Purchase Order: 7008622             757.16      757.16
+        000798  12/04/25  Purchase Order: 7008626              89.00       89.00
+        000799  12/04/25  Purchase Order: 7008624               4.18        4.18
+        000800  12/04/25  Purchase Order: 7008625             360.00      360.00
+        001285  12/08/25  Purchase Order: 7008652               1.80        1.80
+        001286  12/08/25  Purchase Order: 7008647             402.96      402.96
+        001287  12/08/25  Purchase Order: 7008648             131.63      131.63
+        001288  12/08/25  Purchase Order: 7008649              20.56       20.56
+        001399  12/08/25  Purchase Order: 7008650                         264.21-
+        001482  12/09/25  Purchase Order: 7008659             490.52      490.52
+        001645  12/10/25  Purchase Order: 7008670             200.00      200.00
+        001646  12/10/25  Purchase Order: 7008669              29.89       29.89
+        001647  12/10/25  Purchase Order: 7008664             141.22      141.22
+        001648  12/10/25  Purchase Order: 7008666             213.68      213.68
+        001649  12/10/25  Purchase Order: 7008663            1021.56     1021.56
+        001650  12/10/25  Purchase Order: 7008667             743.29      743.29
+        001691  12/02/25  Purchase Order: 7008608              38.57       38.57
+        001917  12/24/25  Purchase Order: 7008789              36.21       36.21
+        002025  12/12/25  Purchase Order: 7008689             183.63      183.63
+        002026  12/12/25  Purchase Order: 7008686             360.75      360.75
+        002027  12/12/25  Purchase Order: 7008688             693.37      693.37
+        002268  12/15/25  Purchase Order: 7008698             478.82      478.82
+        002269  12/15/25  Purchase Order: 7008703             165.32      165.32
+        002270  12/15/25  Purchase Order: 7008699              41.27       41.27
+        002271  12/15/25  Purchase Order: 7008702             378.01      378.01
+        002272  12/15/25  Purchase Order: 7008701              25.01       25.01
+        002424  12/15/25  Purchase Order: 7008704                         127.18-
+        002493  12/16/25  Purchase Order: 7008733             209.73      209.73
+        002679  12/17/25  Purchase Order: 7008730             945.32      945.32
+        002896  12/18/25  Purchase Order: 7008747             461.14      461.14
+        002897  12/18/25  Purchase Order: 7008744              62.75       62.75
+        002898  12/18/25  Purchase Order: 7008745            2200.00     2200.00
+        003074  12/22/25  Purchase Order: 7008759             402.52      402.52
+        003075  12/19/25  Purchase Order: 7008758            1008.35     1008.35
+        003182  12/19/25  Purchase Order: 7008760                         484.91-
+        003303  12/22/25  Purchase Order: 7008768             260.98      260.98
+        003304  12/22/25  Purchase Order: 7008770              26.99       26.99
+        003305  12/22/25  Purchase Order: 7008772             106.00      106.00
+        003429  12/22/25  Purchase Order: 7008771                        1026.00-
+        003502  12/23/25  Purchase Order: 7008785              41.27       41.27
+        003976  12/29/25  Purchase Order: 7008805             756.32      756.32
+        003977  12/29/25  Purchase Order: 7008803            1014.72     1014.72
+        004060  12/02/25  Purchase Order: 7008610              68.78       68.78
+        004200  12/30/25  Purchase Order: 7008815             345.21      345.21
+        004201  12/30/25  Purchase Order: 7008817             155.00      155.00
+        006202  12/17/25  Purchase Order: 7008736             193.52      193.52
+        006532  12/17/25  Purchase Order: 7008735              96.52       96.52
+        007066  12/08/25  Purchase Order: 7008651              38.57       38.57
+        007912  12/16/25  Purchase Order: 7008732              96.52       96.52
+        009844  12/04/25  Purchase Order: 7008623               6.96        6.96
+        010549  12/17/25  Purchase Order: 7008737             193.04      193.04
+        011343  12/18/25  Purchase Order: 7008746             205.80      205.80
+        013747  12/23/25  Purchase Order: 7008784             258.08      258.08
+        015227  12/16/25  Purchase Order: 7008734              38.57       38.57
+        015682  12/29/25  Purchase Order: 7008801              68.78       68.78
+        016876  12/30/25  Purchase Order: 7008816            2541.97     2541.97
+        018190  12/18/25  Purchase Order: 7008748              38.57       38.57
+        019632  12/19/25  Purchase Order: 7008761              77.14       77.14
+        024347  12/10/25  Purchase Order: 7008668              29.00       29.00
+        024348  12/10/25  Purchase Order: 7008665            1309.78     1309.78
+        031604  12/12/25  Purchase Order: 7008687              62.71       62.71
+        037185  12/15/25  Purchase Order: 7008705              47.88       47.88
+        037186  12/15/25  Purchase Order: 7008700              46.76       46.76
+        039568  12/16/25  Purchase Order: 7008731            1677.50     1677.50
+        057433  12/23/25  Purchase Order: 7008786             200.00      200.00
+       2161272  12/31/25  HCUV CER FEES                       938.00      938.00
+
+ GL3010R                                  CLARK HYUNDAI                                   1/05/26  15:36:29
+ BMOHA46                                 Selective Payable Listing                                 Page   2
+ ==========================================================================================================
+   HYUN003  HYUNDAI MOTOR AMERICA
+ Pay Amount        .00  Due in 30 Days
+
+                                                             Net        Original                Days
+      Invoice#    Date    Description                        Payable     Invoice /     Discount  Exp
+                                                                          Credit
+ ==========================================================================================================
+      HPPCLM12  12/15/25  HPP CLAIMS PAID                                1993.00-
+     HPPCONTRA  12/15/25  HPP CONTRACTS                      7800.00     7800.00
+     PDI676627  12/05/25  PDI STATEMENT                                  1469.31-
+     PDI677651  12/12/25  PDI PYMT                                        826.21-
+     PDI678676  12/22/25  PDI STMT                                        174.25-
+     PDI679680  12/29/25  PDI PYMT                                        512.73-
+     W00755604  12/05/25  WARRANTY SETTLEMENT                           13859.78-
+     W00756713  12/15/25  WARRANTY STMT                                  7078.39-
+     W00757825  12/22/25  WARRANTY STMT                                  8516.34-
+     W00758940  12/29/25  WARRANTY SETTLEMENT PYMT                      13399.48-
+     402565710  12/05/25  VEHICLE TRACKING & ETA SYSTEM       155.00      155.00
+     402567437  12/05/25  PARTSEYE                            465.00      465.00
+     402572893  12/05/25  FLOORING ALLOWANCE                            24179.00-
+     402573850  12/01/25  HOLDBACK DEC                                  27597.00-
+     402574448  12/01/25  AD ASSESSMENT                                  4500.00-
+     402592681  12/05/25  SERVICE DIGITAL                      74.95       74.95
+     402623848  12/08/25  PARTSEYE                             65.00       65.00
+     402643578  12/01/25  ESSENTIAL TOOLS                   11724.00    11724.00
+     402645914  12/12/25  TECH STAR                           360.00      360.00
+     402656289  12/22/25  RETAIL EXPERIENCE & SALES          1150.00     1150.00
+     402656891  12/22/25  SERV LANE TECH                     2675.00     2675.00
+     402667092  12/22/25  LEADS PROGRAM                        28.00       28.00
+     402679891  12/22/25  DEALER WEBSITE                      300.00      300.00
+     402681131  12/22/25  DEALER WEBSITE                     2271.00     2271.00
+     402681755  12/22/25  CERT CHAT PROGRAM                   544.00      544.00
+     402683007  12/31/25  OWNER MARKETING COMM                929.00      929.00
+     402683519  12/22/25  GOOGLE CARS                          49.50       49.50
+     402691295  12/26/25  MARKET SUPPORT                                 1000.00-
+     402701420  12/22/25  DEALER SUPPORT                      517.00      517.00
+     402702581  12/22/25  SERV OPS                           1200.00     1200.00
+     402738241  12/31/25  BRAND AMBASSADOR                              10500.00-
+     402797980  12/31/25  CUSTOMER SATISFACTION               840.00      840.00
+     402799215  12/15/25  OWNER COMM                          360.00      360.00
+
+     Totals:                                                55660.64    61847.15-
+
