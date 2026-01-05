@@ -78,16 +78,6 @@
         057433  12/23/25  Purchase Order: 7008786             200.00      200.00
        2161272  12/31/25  HCUV CER FEES                       938.00      938.00
 
- GL3010R                                  CLARK HYUNDAI                                   1/05/26  15:36:29
- BMOHA46                                 Selective Payable Listing                                 Page   2
- ==========================================================================================================
-   HYUN003  HYUNDAI MOTOR AMERICA
- Pay Amount        .00  Due in 30 Days
-
-                                                             Net        Original                Days
-      Invoice#    Date    Description                        Payable     Invoice /     Discount  Exp
-                                                                          Credit
- ==========================================================================================================
       HPPCLM12  12/15/25  HPP CLAIMS PAID                                1993.00-
      HPPCONTRA  12/15/25  HPP CONTRACTS                      7800.00     7800.00
      PDI676627  12/05/25  PDI STATEMENT                                  1469.31-
@@ -121,6 +111,5 @@
      402738241  12/31/25  BRAND AMBASSADOR                              10500.00-
      402797980  12/31/25  CUSTOMER SATISFACTION               840.00      840.00
      402799215  12/15/25  OWNER COMM                          360.00      360.00
-
-     Totals:                                                55660.64    61847.15-
 
+
