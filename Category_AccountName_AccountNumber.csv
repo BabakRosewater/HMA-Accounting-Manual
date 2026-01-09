@@ -1,0 +1,154 @@
+Category,Account Name,Account Number
+Assets,Petty Cash,200
+Assets,Cash in Bank,202
+Assets,Cash on Hand,203
+Assets,Contracts in Transit,205
+Assets,Customer Notes,210
+Assets,"Accounts Receivable - Customer Service, Parts Body Shop",220A
+Assets,Accounts Receivable - Retail Vehicles,222
+Assets,Lease & Rental Accounts,223
+Assets,Wholesale & Dealer Trades,224
+Assets,Service Contract Receivables,225
+Assets,Warranty Claims - Hyundai,226A
+Assets,Warranty Claims - Other Franchise,226B
+Assets,Factory Receivables/Incentives - Hyundai,227A
+Assets,Factory Receivables/Incentives - Other Franchise,227B
+Assets,Holdback - Hyundai,228A
+Assets,Holdback - Other Franchise,228B
+Assets,Floor Plan Assistance,229
+Assets,Transportation Claims,229A
+Assets,Floor Plan Assistance - Other,229B
+Assets,Wholesale Assistance - Hyundai,233
+Assets,Demonstrators - Hyundai,230A
+Assets,Demonstrators - Other Franchise,230B
+Assets,New Vehicles - Hyundai,231A
+Assets,New Vehicles - Other Franchise,231B
+Assets,LIFO Reserve - New Vehicle,234
+Assets,LIFO Reserve - Used Vehicle,235
+Assets,Used Vehicles - Hyundai,239
+Assets,Used Vehicles - Other Franchise,240
+Assets,Hyundai Certified Used Vehicles (HCUV),252
+Assets,Parts & Accessories - Hyundai,242A
+Assets,Parts & Accessories - Other Franchise,242B
+Assets,Miscellaneous Inventories,243
+Assets,"Gas, Oil, Grease",244
+Assets,Tires,244A
+Assets,Paint & Body Shop Materials,245
+Assets,Sublet Repairs,246
+Assets,Work in Process - Labor,247
+Assets,Non-Automotive Inventory (for resale),248
+Assets,Parts Inventory Adjustment,249
+Assets,LIFO Reserve P & A,251
+Assets,"Securities, Money Market & CDs",260
+Assets,Trade Receivables Affiliates,261
+Assets,Due from Finance Companies,262
+Assets,Finance & Insurance Receivables,264
+Assets,(Prepaid) Advertising,269
+Assets,(Prepaid) Taxes,270
+Assets,(Prepaid) Insurance,271
+Assets,(Prepaid) Rent,272
+Assets,(Prepaid) Interest,273
+Assets,(Prepaid) Other,274
+Assets,Land - Auto Business Only,280
+Assets,Building & Improvements - Auto Business Only,281
+Assets,Service Equipment,282
+Assets,Parts & Accessories Equipment,283
+Assets,Furniture & Fixtures,284
+Assets,Company Vehicles,285
+Assets,Leaseholds,286
+Assets,Lease & Rental Units - Fixed,287
+Assets,Deposits on Contracts,290
+Assets,Life Insurance - Cash Value,291
+Assets,Notes & Accounts Receivable - Officers & Owners,293
+Assets,"Advances to Employees, Affiliates & Other",294
+Assets,Other Notes and Accounts Receivables,295
+Assets,"Intangibles, Other Investment & Miscellaneous Assets",296
+Liabilities,Accounts Payable - Trade Creditors,300
+Liabilities,License & Registration Fees,301
+Liabilities,Vehicle Protection - Warranties Payable,303
+Liabilities,Vehicle Lien Payable,309
+Liabilities,New Vehicles & Demonstrators - Hyundai,310
+Liabilities,New Vehicles & Demonstrators - Other Franchise,310A
+Liabilities,Used Vehicles - Hyundai,311
+Liabilities,Used Vehicles - Other Franchise,312
+Liabilities,Lease and Rental Units - Current,313A
+Liabilities,(Notes Payable) Other,314
+Liabilities,Current Portion - Long Term Debt / Capital Loans,315
+Liabilities,(Accrued) Interest,320
+Liabilities,(Accrued) Payroll,321
+Liabilities,(Accrued) Insurance,322
+Liabilities,(Accrued) Taxes - Payroll,323
+Liabilities,(Accrued) Taxes - Sales,324
+Liabilities,"(Accrued) Taxes - Other than Payroll, Sales & Income Tax",325
+Liabilities,(Accrued) Income Taxes - Previous Year,326
+Liabilities,(Accrued) Income Taxes - Current Year,327
+Liabilities,(Accrued) Bonuses - Employees,328
+Liabilities,(Accrued) Bonuses - Owners,329
+Liabilities,(Accrued) Pension Fund & Profit Sharing,330
+Liabilities,Other Accrued Liabilities,331
+Liabilities,"Reserve for Repossessions, F&I, Service Contract Losses",332
+Liabilities,Deferred Income Taxes,333
+Liabilities,Long Term Debt / Capital Loans,334
+Liabilities,Mortgages Payable,335
+Liabilities,Notes Payable - Officers and Owners,336
+Liabilities,Allowance for Doubtful Accounts,340
+Income,Hyundai New Vehicle Retail Accounts,401-520
+Income,Hyundai Protection Plan,414A
+Income,Extended Service Contracts,"415A, 415B"
+Income,Aftermarket Income,"417A, 417B"
+Income,Used Vehicle Retail Accounts,430A-430G
+Income,Used Vehicles - Wholesale,433
+Income,Hyundai Certified Used Vehicles Accounts,442A-442BG
+Income,Hyundai Protection Plan (HPP) - Used Vehicles,444
+Income,Aftermarket Income - Used Vehicles,445
+Income,Extended Service Contracts - Used Vehicles,535
+Income,Finance Income Accounts,"611A, 611B, 635"
+Income,Insurance Income Accounts,"613A, 613B, 636"
+Income,Chargebacks Accounts,"618A, 618B, 638"
+Income,GAP Income Accounts,"640A, 640B, 643"
+Income,Other Income Accounts,800-809
+Expenses,Salespeople: Compensation & Incentives,11
+Expenses,F & I Managers: Compensation & Incentives,12
+Expenses,Delivery Expense,13
+Expenses,Policy Expense,14
+Expenses,Interest - Floor Planning,15
+Expenses,Demonstrator Expense,16
+Expenses,Used Vehicle Maintenance Expense,17
+Expenses,Floorplan Assistance from Hyundai,18
+Expenses,Salaries Accounts,20-23
+Expenses,"Leave - Vacation, Sick & Holiday Compensation",24
+Expenses,Employee Benefits,25
+Expenses,"Pension, Retirement Plan Contribution & Profit-Sharing",26
+Expenses,Taxes - Payroll,27
+Expenses,Worker's Compensation,28
+Expenses,Advertising Accounts,46-49
+Expenses,Training,50
+Expenses,Company Vehicle Expense,51
+Expenses,"Stationery, Office Supplies & Postage",60
+Expenses,Small Tools & Other Supplies,61
+Expenses,Contributions,66
+Expenses,"Policy Work - Service, Parts, & Body Shop Dept.",67
+Expenses,Outside Services,68
+Expenses,Laundry and Uniforms,69
+Expenses,Travel & Entertainment,70
+Expenses,"Memberships, Dues & Publications",71
+Expenses,"Legal, Accounting & Auditing Expense",72
+Expenses,Freight, Express & Cartage - Parts Department,73
+Expenses,Telephone,74
+Expenses,Data Processing & Computer System,77
+Expenses,Miscellaneous,78
+Expenses,Rent,80
+Expenses,Amortization - Leaseholds,81
+Expenses,Repairs - Real Estate,82
+Expenses,Depreciation - Buildings and Improvements,83
+Expenses,Taxes - Real Estate,84
+Expenses,Insurance - Buildings and Improvements,85
+Expenses,Interest - Real Estate Mortgage,86
+Expenses,Heat Light Power and Water (Utilities),87
+Expenses,Insurance - Other than Buildings and Improvements,88
+Expenses,"Taxes - Other than Real Estate, Income & Payroll",89
+Expenses,Repairs - Equipment,90
+Expenses,Depreciation - Other than Buildings and Improvements,91
+Expenses,Equipment Rental,92
+Expenses,Bonuses Accounts,"97, 98"
+Expenses,Income Taxes,99
